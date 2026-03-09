@@ -10,3 +10,4 @@ suno 프롬프트 평가
 | 2026-03-09 | 몽환적인 K-Pop 발라드 프롬프트 | - | [Listen](https://suno.com/song/d00ebd52-053a-44ca-9e6d-9335974f94f0) |
 | 2026-03-09 | Untitled | - | [Listen](https://suno.com/song/b73b20a8-b12b-41c8-afc2-0bd8be0147f0) |
 | 2026-03-09 | Untitled | 80 | [Listen](https://suno.com/song/a0b69eb2-fe2c-4aa9-81d9-484443bedf33) |
+| 2026-03-09 | Untitled | 50 | [Listen](https://suno.com/song/113ead20-e861-42c5-8b62-0ecdefba9052) |
