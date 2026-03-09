@@ -13,3 +13,4 @@ suno 프롬프트 평가
 | 2026-03-09 | Untitled | 50 | [Listen](https://suno.com/song/113ead20-e861-42c5-8b62-0ecdefba9052) |
 | 2026-03-09 | Untitled | 50 | [Listen](https://suno.com/song/f792d7a8-0aa5-4ff9-9894-60f441020661) |
 | 2026-03-09 | Untitled | 30 | [Listen](https://suno.com/song/d67e08c4-b195-4934-8336-bd33709a5021) |
+| 2026-03-09 | 스퀘어 1차 믹싱 100% | 25 | [Listen](https://suno.com/song/43e1301d-33a5-4616-a1e4-cca9491ffc2c) |
