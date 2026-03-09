@@ -6,3 +6,4 @@ suno 프롬프트 평가
 | 2026-03-09 | Untitled | - | [Listen](https://suno.com/song/d00ebd52-053a-44ca-9e6d-9335974f94f0) |
 | 2026-03-09 | 타상연화 믹싱전 | - | [Listen](https://suno.com/song/f27b4b25-af48-4f26-96a6-60c939362ab8) |
 | 2026-03-09 | I Really Want to Stay at Your House  Cyberpunk Edgerunners  Rrrr Music Cover ft.庭米 @mi0922 | - | [Listen](https://suno.com/song/f792d7a8-0aa5-4ff9-9894-60f441020661) |
+| 2026-03-09 | Komi Can't Communicate Season 2 ED『Koshaberi Biyori』 by FantasticYouth (TV Size)[piano] | - | [Listen](https://suno.com/song/540a0476-0f1b-4093-ad56-30aa1d1fb03c) |
