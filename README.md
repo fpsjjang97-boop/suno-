@@ -9,3 +9,4 @@ suno 프롬프트 평가
 | 2026-03-09 | Komi Can't Communicate Season 2 ED『Koshaberi Biyori』 by FantasticYouth (TV Size)[piano] | - | [Listen](https://suno.com/song/540a0476-0f1b-4093-ad56-30aa1d1fb03c) |
 | 2026-03-09 | 몽환적인 K-Pop 발라드 프롬프트 | - | [Listen](https://suno.com/song/d00ebd52-053a-44ca-9e6d-9335974f94f0) |
 | 2026-03-09 | Untitled | - | [Listen](https://suno.com/song/b73b20a8-b12b-41c8-afc2-0bd8be0147f0) |
+| 2026-03-09 | Untitled | 80 | [Listen](https://suno.com/song/a0b69eb2-fe2c-4aa9-81d9-484443bedf33) |
