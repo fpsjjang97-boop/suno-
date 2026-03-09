@@ -15,3 +15,4 @@ suno 프롬프트 평가
 | 2026-03-09 | Untitled | 30 | [Listen](https://suno.com/song/d67e08c4-b195-4934-8336-bd33709a5021) |
 | 2026-03-09 | 스퀘어 1차 믹싱 100% | 25 | [Listen](https://suno.com/song/43e1301d-33a5-4616-a1e4-cca9491ffc2c) |
 | 2026-03-09 | SlickAmbient1127 | 10 | [Listen](https://suno.com/song/d67e08c4-b195-4934-8336-bd33709a5021) |
+| 2026-03-09 | OS_LAT_sfx_bass_drop | 10 | [Listen](https://suno.com/song/bfab77eb-256a-4c5f-88f8-5c6c97ab9cc3) |
