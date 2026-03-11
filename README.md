@@ -19,3 +19,4 @@ suno 프롬프트 평가
 | 2026-03-09 | 숲의 길잡이 | 100 | [Listen](https://suno.com/song/b35bc155-10bd-4eca-881f-f92d69d80db7) |
 | 2026-03-11 | SlickAmbient1127 | 20 | [Listen](https://suno.com/song/3fff6d89-e01c-438a-933a-32578155c755) |
 | 2026-03-11 | 260220_h2h_track | 20 | [Listen](https://suno.com/song/24330bfc-c276-409e-9141-10f4144f340d) |
+| 2026-03-11 | SlickAmbient1127 | 85 | [Listen](https://suno.com/song/d67e08c4-b195-4934-8336-bd33709a5021) |
